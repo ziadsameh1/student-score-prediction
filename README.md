@@ -46,11 +46,11 @@ model = LinearRegression()
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
   
-📸 Output Visualization
+## 📸 Output Visualization
 The chart below represents actual exam scores vs predicted scores based on study hours.
 
 
-📚 Learnings
+## 📚 Learnings
 Basics of Linear Regression
 
 Data preprocessing & cleaning
