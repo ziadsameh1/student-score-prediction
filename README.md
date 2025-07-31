@@ -61,6 +61,6 @@ Performance evaluation
 
 Real-world data prediction
 
-🏁 Conclusion
+## 🏁 Conclusion
 This project proves that even a simple linear regression model can give meaningful predictions when working with clean and relevant features like study hours. A great first step into the world of machine learning.
 
