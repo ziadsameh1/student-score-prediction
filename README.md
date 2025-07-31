@@ -41,11 +41,11 @@ To build a regression model that accurately predicts a student’s exam score ba
 
 ## 📌 Sample Code
 
-```python
+python
 model = LinearRegression()
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
-
+  
 📸 Output Visualization
 The chart below represents actual exam scores vs predicted scores based on study hours.
 
